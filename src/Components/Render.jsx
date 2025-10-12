@@ -4,7 +4,7 @@ import { OrbitControls } from '@react-three/drei'
 
 function Render({children}) {
   return (
-      <Canvas camera={{ position: [2, 2, 4], fov: 50 }}>
+      <Canvas camera={{ position: [2, 2, 4], fov: 100 }}>
      
       <ambientLight intensity={0.5} />
       <directionalLight position={[3, 2, 1]} />
