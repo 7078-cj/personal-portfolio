@@ -1,16 +1,68 @@
-# React + Vite
+# Ceejay Santos - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This website showcases my background, technical skills, projects, and professional experience. It is built using React and designed to provide potential employers, collaborators, or anyone interested in my work, a clear view of who I am and what I can do.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Purpose
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The purpose of this portfolio is to provide a professional yet personal platform where I can display my work, skills, and achievements in a way that is easily accessible. It serves as both a dynamic resume and an interactive showcase of my technical projects, giving visitors an opportunity to get to know me better and explore my work in more detail. The website is also designed to be user-friendly, responsive, and visually appealing, reflecting both my design sense and technical capabilities.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- **Biography Page:** Overview of my background, education, interests, and personal goals.
+- **Development Experience Section:** Showcases my technical projects with descriptions, tools, and links to GitHub repositories.
+- **Skills & Tech Stack:** Interactive visual display of programming languages, frameworks, and tools.
+- **Info Section:** Summarizes education, experience, technical skills, hobbies, and achievements.
+- **Get In Touch Section:** Easily reach out via phone, email, or social media links.
+
+
+---
+
+## 📂 Technologies Used
+
+- **React** – Core library for building interactive UI.
+- **Tailwind CSS** – Utility-first CSS framework for fast styling.
+- **Framer Motion** – Smooth animations for sections and interactive elements.
+- **Vite** – Fast build tool for React projects.
+- **GitHub Pages** – Hosting and deployment.
+- **Tech Stack Icons** – For visual representation of skills.
+
+
+## ⚡ Setup Instructions
+
+### Prerequisites
+- Node.js (v20+ recommended)
+- npm or yarn
+
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/personal-portfolio.git
+
+# Navigate to project directory
+cd personal-portfolio
+
+# Install dependencies
+npm install --force
+
+# Run development server
+npm run dev
+
+
+# Deployment
+
+
+# To deploy your portfolio to GitHub Pages:
+
+# Build the project for production:
+
+npm run build
+
+# Push the build folder to your GitHub Pages branch (usually gh-pages):
+
+npm run deploy
+
+# If using GitHub Pages, follow the official guide for deployment.
