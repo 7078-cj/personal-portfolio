@@ -66,3 +66,20 @@ npm run build
 npm run deploy
 
 # If using GitHub Pages, follow the official guide for deployment.
+
+```
+# Live Demo
+
+
+You can access the live version of your portfolio once it's deployed:
+
+**GitHub Pages URL:**  
+[https://7078-cj.github.io/personal-portfolio/](https://7078-cj.github.io/personal-portfolio/)
+
+**Demo Recording:**  
+[https://your-username.github.io/personal-portfolio](https://your-username.github.io/personal-portfolio)
+
+
+---
+
+

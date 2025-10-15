@@ -44,16 +44,11 @@ export default function App() {
 
       <TechStack fadeUp={fadeUp} staggerContainer={staggerContainer} scaleIn={scaleIn} />
 
-      {/* CONTACT SECTION */}
+      
       <Contact fadeUp={fadeUp} />
 
-      {/* FOOTER */}
-      <footer className="bg-[#0d1f19] text-center text-sm text-gray-400 py-8 px-6">
-        <p>© 2025 Ceejay Santos — Built with React, Tailwind & Motion</p>
-        <p className="mt-2 text-xs">
-          Full-Stack Developer | AI Enthusiast | Creative Problem Solver
-        </p>
-      </footer>
+      
+      <Footer/>
     </div>
   );
 }
