@@ -51,9 +51,12 @@ npm install --force
 # Run development server
 npm run dev
 
+#Open your browser and visit http://localhost:port (usually 5173 is the default port) to view the site locally.
+```
+
 
 # Deployment
-
+```bash
 
 # To deploy your portfolio to GitHub Pages:
 
@@ -66,6 +69,8 @@ npm run build
 npm run deploy
 
 # If using GitHub Pages, follow the official guide for deployment.
+
+
 
 ```
 # Live Demo
