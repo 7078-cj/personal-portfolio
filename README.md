@@ -77,7 +77,7 @@ You can access the live version of your portfolio once it's deployed:
 [https://7078-cj.github.io/personal-portfolio/](https://7078-cj.github.io/personal-portfolio/)
 
 **Demo Recording:**  
-[https://your-username.github.io/personal-portfolio](https://your-username.github.io/personal-portfolio)
+[https://drive.google.com/drive/folders/1XXM2JMx7bA8cMKBiOjFjHF2JnFr4u6y5?usp=sharing](https://drive.google.com/drive/folders/1XXM2JMx7bA8cMKBiOjFjHF2JnFr4u6y5?usp=sharing)  
 
 
 ---
